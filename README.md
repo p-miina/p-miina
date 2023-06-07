@@ -1,5 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Mina%20Github&fontSize=100)
 
+
+#### 🛠기술스택🛠
+<div>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+</div>
 <!--
 **p-miina/p-miina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
