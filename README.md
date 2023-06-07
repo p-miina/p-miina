@@ -6,7 +6,8 @@
  고려대학교 뇌공학과 석사학위를 취득하였습니다. <br/>
  현재 KT AIVLE SCHOOL AI 개발자 TRACK을 통해 AI개발을 공부하고 있습니다.
 </div><br/>
-#### 📫Mail📫
+
+#### 📫Mail📫<br/>
 alsk5304@gmail.com
 
 
