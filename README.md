@@ -7,13 +7,11 @@
  현재 KT AIVLE SCHOOL AI 개발자 TRACK을 통해 AI개발을 공부하고 있습니다.
 </div><br/>
 
+#### 🔭Work Experience🔭
 * 한국과학기술연구원(2018.11 - 2022.08)
 * 고려대학교 뇌공학과 석사(2020.09 - 2022.08)
 * 디지털 헬스케어 전문인력 양성 프로그램(2022.09 - 2022.10)
 * KT AIVLE SCHOOL(2023.01 - 2023.07)
-
-#### 📫Mail📫<br/>
-alsk5304@gmail.com
 
 
 #### 🛠Skills🛠
@@ -26,6 +24,10 @@ alsk5304@gmail.com
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
+
+#### 📫Mail📫<br/>
+alsk5304@gmail.com
+
 <!--
 **p-miina/p-miina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
