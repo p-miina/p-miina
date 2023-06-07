@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mina%20Github&fontSize=60)
 
 <div align = 'center'>
-👋반갑습니다. 저는 한국과학기술연구원(KIST)에서 디지털 헬스케어 분야 연구를 진행하였고, 고려대학교 뇌공학과 석사학위를 취득하였습니다. 현재 KT AIVLE SCHOOL AI 개발자 TRACK을 통해 AI개발을 공부하고 있습니다.
+👋반갑습니다.
+ 
+ 저는 한국과학기술연구원(KIST)에서 디지털 헬스케어 분야 연구를 진행하였고, 고려대학교 뇌공학과 석사학위를 취득하였습니다. 
+ 
+ 현재 KT AIVLE SCHOOL AI 개발자 TRACK을 통해 AI개발을 공부하고 있습니다.
 </div>
 #### 📫Mail📫
 alsk5304@gmail.com
