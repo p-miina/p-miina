@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mina%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mina%20Github&fontSize=60)
+
+#### ✉Mail✉
+alsk5304@gmail.com
 
 
 #### 🛠기술스택🛠
