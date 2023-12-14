@@ -21,7 +21,7 @@
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
-
+ <img src="https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/cy9ObE56WExkcE9GdXJ4SEhQZ05LQT09"/>
 #### 📫Mail📫<br/>
 alsk5304@gmail.com
 
